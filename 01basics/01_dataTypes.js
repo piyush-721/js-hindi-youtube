@@ -17,5 +17,5 @@ let state = null;
 
 // object 
 
-console.log(typeof undefined);
-console.log(typeof null);
+console.log(typeof undefined); // undefined 
+console.log(typeof null); // object
